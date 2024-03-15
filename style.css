@@ -1,0 +1,68 @@
+body{
+    background-image: url(foto1.jpg);
+}
+
+.kal{
+    width:  1150px;
+    height: 800px;
+    padding: 10px;
+    margin: 80px auto;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    background-color: yellow;
+}
+
+.FormInput{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 98%;
+    height: 12%;
+    display: block;
+    font-size: 15px;
+}
+
+.FormSelect{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 12%;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.FormHasil{
+    padding: 30px 10px;
+    border: none;
+    border-radius: 5px;
+    width: 98%;
+    height: 13%;
+    display: block;
+    font-size: 30px;
+    margin-top: 10px;
+}
+ 
+p{
+    color: blue;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+button{
+    padding: 30px;
+    color: yellow;
+    background-color: blue;
+    cursor: pointer;
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
